@@ -1,0 +1,1 @@
+const s="מנתח ATS",n="מנתח מסמכים",o="Linux",t="Mac",c="בניית קורות חיים",a="Windows",e="תהליך עבודה",i="ניהול",w="הגדרות",d="עזרה",l={ats:s,doc:n,linux:o,mac:t,resume:c,windows:a,workflow:e,admin:i,settings:w,help:d};export{i as admin,s as ats,l as default,n as doc,d as help,o as linux,t as mac,c as resume,w as settings,a as windows,e as workflow};
