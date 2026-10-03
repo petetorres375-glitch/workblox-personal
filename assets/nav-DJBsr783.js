@@ -1,0 +1,1 @@
+const o="Analizador ATS",s="Analizador de Documentos",n="Linux",t="Mac",a="Creador de CV",c="Windows",e="Flujo de Trabajo",d="Ajustes",i="Ayuda",l={ats:o,doc:s,linux:n,mac:t,resume:a,windows:c,workflow:e,settings:d,help:i};export{o as ats,l as default,s as doc,i as help,n as linux,t as mac,a as resume,d as settings,c as windows,e as workflow};

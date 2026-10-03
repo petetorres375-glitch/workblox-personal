@@ -1,0 +1,1 @@
+const n="ATS-analyse",s="Documentanalyse",o="Linux",t="Mac",c="Cv-builder",e="Windows",l="Workflow",a="Instellingen",i="Hulp",w={ats:n,doc:s,linux:o,mac:t,resume:c,windows:e,workflow:l,settings:a,help:i};export{n as ats,w as default,s as doc,i as help,o as linux,t as mac,c as resume,a as settings,e as windows,l as workflow};

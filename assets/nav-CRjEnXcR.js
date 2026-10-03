@@ -1,1 +1,0 @@
-const o="Analýza ATS",n="Analýza dokumentů",s="Linux",t="Mac",a="Tvorba životopisu",c="Windows",e="Pracovní postup",i="Správa",d="Nastavení",l="Nápověda",u={ats:o,doc:n,linux:s,mac:t,resume:a,windows:c,workflow:e,admin:i,settings:d,help:l};export{i as admin,o as ats,u as default,n as doc,l as help,s as linux,t as mac,a as resume,d as settings,c as windows,e as workflow};

@@ -1,1 +1,0 @@
-const n="Penganalisis ATS",s="Penganalisis Dokumen",o="Linux",t="Mac",a="Pembuat Resume",e="Windows",c="Alur Kerja",i="Admin",u="Pengaturan",l="Bantuan",m={ats:n,doc:s,linux:o,mac:t,resume:a,windows:e,workflow:c,admin:i,settings:u,help:l};export{i as admin,n as ats,m as default,s as doc,l as help,o as linux,t as mac,a as resume,u as settings,e as windows,c as workflow};

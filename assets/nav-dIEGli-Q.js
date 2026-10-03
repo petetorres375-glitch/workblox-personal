@@ -1,0 +1,1 @@
+const o="Analizor ATS",n="Analizor Documente",s="Linux",t="Mac",c="Creare CV",e="Windows",r="Flux de lucru",a="Setări",i="Ajutor",l={ats:o,doc:n,linux:s,mac:t,resume:c,windows:e,workflow:r,settings:a,help:i};export{o as ats,l as default,n as doc,i as help,s as linux,t as mac,c as resume,a as settings,e as windows,r as workflow};

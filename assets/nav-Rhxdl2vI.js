@@ -1,0 +1,1 @@
+const n="Trình phân tích ATS",t="Trình phân tích Tài liệu",s="Linux",o="Mac",c="Trình tạo Sơ yếu lý lịch",i="Windows",h="Quy trình làm việc",l="Cài đặt",e="Trợ giúp",r={ats:n,doc:t,linux:s,mac:o,resume:c,windows:i,workflow:h,settings:l,help:e};export{n as ats,r as default,t as doc,e as help,s as linux,o as mac,c as resume,l as settings,i as windows,h as workflow};
